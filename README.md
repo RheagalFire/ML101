@@ -1,7 +1,2 @@
----
-description: This Book will contain Interview related Questions and Answers
----
+# Page 1
 
-# Machine Learning Interview Preparation Kit
-
-###
