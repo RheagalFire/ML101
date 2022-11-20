@@ -12,6 +12,8 @@ Play around with this [notebook](https://github.com/RheagalFire/Scratch-Implemen
 
 Also, check out [this](https://github.com/justmarkham/DAT8/blob/master/notebooks/17\_decision\_trees.ipynb) very illustrative and end-to-end implementation of decision trees in scikit-learn.
 
+[This ](https://mlu-explain.github.io/decision-tree/)is a great visual representation of the working of decision trees. &#x20;
+
 ### What happens when we grow a tree too deep?
 
 &#x20;The **training error** continues to go down as the tree size increases (due to overfitting).
