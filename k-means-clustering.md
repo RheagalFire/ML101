@@ -16,7 +16,7 @@ Head over This [Link](https://www.kaggle.com/arishalam/the-knn-algorithm), a ver
 
 ![The Elbow method for best K ](<.gitbook/assets/image (14).png>)
 
-Click [Here](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/?fbclid=IwAR0JgeXKfyLGndL2\_eMX7R6HLVY9la97V6QMIYb\_4LnG56N-x1Oe5DsdhqE) for MCQ Interview Questions for KNN.
+Click [Here](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/?utm\_source=facebook.com\&utm\_medium=social\&fbclid=IwAR0JgeXKfyLGndL2\_eMX7R6HLVY9la97V6QMIYb\_4LnG56N-x1Oe5DsdhqE) for MCQ Interview Questions for KNN.
 
 ### Advantages
 
