@@ -14,7 +14,7 @@
   * [All about Keys](all-the-sql-for-a-data-scientist/all-about-keys.md)
 * [Importance of Features in a ML model](importance-of-features-in-a-ml-model.md)
 * [Natural Language Processing](natural-language-processing.md)
-* [Journey to neural networks](journey-to-neural-networks/README.md)
+* [Journey to neural networks](journey-to-neural-networks.md)
   * [Optimizers](journey-to-neural-networks/optimizers.md)
 * [Timeseries Forecasting](timeseries-forecasting.md)
 * [New Age of Transformers](new-age-of-transformers.md)

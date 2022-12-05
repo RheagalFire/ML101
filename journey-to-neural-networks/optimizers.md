@@ -2,7 +2,7 @@
 
 There are many different optimization algorithms used in deep learning, and each algorithm has its own specific set of formulas and equations that are used to update the model's parameters. Some of the most commonly used optimization algorithms in deep learning include:
 
-* Stochastic Gradient Descent (SGD): This algorithm uses the gradient of the loss function with respect to the model's parameters to update the parameters in the opposite direction of the gradient. The update rule for SGD is typically given by the following formula:
+* Stochastic Gradient Descent (SGD): This algorithm uses the gradient of the loss function with respect to the model's parameters to update the parameters in the opposite direction of the gradient. The update rule for SGD is typically given by the following formula
 
 w(t+1) = w(t) - learning\_rate \* gradient(w(t))
 
