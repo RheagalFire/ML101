@@ -26,7 +26,7 @@ The Extra Term is referred to as a penalty term since it penalizes larger weight
 
 Penalty Term uses L1 norm instead of L2
 
-![L1 Norm Lasso Regression](<../.gitbook/assets/image (4).png>)
+![L1 Norm Lasso Regression](<../.gitbook/assets/image (4) (1).png>)
 
 This means that it will likely zero out some of the weight coefficients. This reduces the number of features that the model is actually dependent on (since some of the coefficients will now be 0), which can be beneficial when some features are completely irrelevant or duplicates of other features.
 
